@@ -5,10 +5,9 @@ Arquivivo is an educational game where you become the guardian of collective mem
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-## 📱 Jogando no celular (recomendado para tela cheia):
-O Arquivivo foi otimizado para rodar diretamente no navegador, mas para a melhor experiência (sem barras cortando a tela), recomendamos adicioná-lo à sua tela inicial:
+## 📱 Playing on mobile (recommended for full screen):
+Arquivivo has been optimized to run directly in your browser, but for the best experience (without bars cutting the screen), we recommend adding it to your home screen:
+- On iOS (Safari): Open the game link, tap the "Share" icon (square with an upward arrow) in the bottom bar, and select "Add to Home Screen."
+- On Android (Chrome): Open the link, tap the three dots in the top right corner, and select "Add to Home Screen."
 
-- No iOS (Safari): Abra o link do jogo, toque no ícone de "Compartilhar" (quadrado com seta para cima) na barra inferior e selecione "Adicionar à Tela de Início".
-- No Android (Chrome): Abra o link, toque nos três pontinhos no canto superior direito e selecione "Adicionar à tela inicial".
-
-Feito isso, abra o jogo pelo novo ícone gerado no seu celular e lembre-se de jogar com a tela na horizontal!
+Once done, open the game using the new icon on your phone and remember to play in landscape mode!

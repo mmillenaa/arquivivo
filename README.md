@@ -13,3 +13,4 @@ Arquivivo has been optimized to run directly in your browser, but for the best e
 - On Android (Chrome): Open the link, tap the three dots in the top right corner, and select "Add to Home Screen."
 
 Once done, open the game using the new icon on your phone and remember to play in landscape mode!
+https://doi.org/10.5281/zenodo.22017628

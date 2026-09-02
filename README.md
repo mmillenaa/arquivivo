@@ -6,7 +6,7 @@ colorTo: indigo
 sdk: static
 pinned: false
 ---
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22017628.svg)](https://doi.org/10.5281/zenodo.22017628)  ![Registro INPI](https://img.shields.io/badge/INPI-BR%2051%202026%20006761--8-0052CC) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 # Arquivivo
 Educational game where you become the guardian of collective memory.
 
@@ -26,6 +26,4 @@ Arquivivo has been optimized to run directly in your browser, but for the best e
 
 Once done, open the game using the new icon on your phone and remember to play in landscape mode!
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22017628.svg)](https://doi.org/10.5281/zenodo.22017628)
 
-![Registro INPI](https://img.shields.io/badge/INPI-BR%2051%202026%20006761--8-0052CC)

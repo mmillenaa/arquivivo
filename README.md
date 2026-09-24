@@ -9,11 +9,14 @@ Play: https://arquivivo.github.io/
 
 ## Game Levels
 
-| Level 1 | Level 2 |
-| :---: | :---: |
-| <img src="./gifs/Level1.gif" width="300" alt="Level 1"> | <img src="./gifs/Level2.gif" width="300" alt="Level 2"> |
-| **Level 3** | |
-| <img src="./gifs/Level3.gif" width="300" alt="Level 3"> | |
+### Level 1
+<img src="./gifs/Level1.gif" width="100%" alt="Level 1 Gameplay">
+
+### Level 2
+<img src="./gifs/Level2.gif" width="100%" alt="Level 2 Gameplay">
+
+### Level 3
+<img src="./gifs/Level3.gif" width="100%" alt="Level 3 Gameplay">
 
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

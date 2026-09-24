@@ -8,6 +8,12 @@ Arquivivo is an educational game where you become the guardian of collective mem
 Play: https://arquivivo.github.io/
 <img width="2400" height="1790" alt="arquivivo-game" src="https://github.com/user-attachments/assets/ac5df64c-ee89-4b42-9064-07ec4b23e3b9" />
 
+## Game Levels
+
+| Level 1 | Level 2 | Level 3 |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/mmillenaa/arquivivo/main/gifs/Level1.gif" width="250" alt="Level 1"> | <img src="https://raw.githubusercontent.com/mmillenaa/arquivivo/main/gifs/Level2.gif" width="250" alt="Level 2"> | <img src="https://raw.githubusercontent.com/mmillenaa/arquivivo/main/gifs/Level3.gif" width="250" alt="Level 3"> |
+
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 https://creativecommons.org/licenses/by-nc-sa/4.0/

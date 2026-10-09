@@ -1,6 +1,7 @@
 # Arquivivo
 Educational game where you become the guardian of collective memory.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22017628.svg)](https://doi.org/10.5281/zenodo.22017628)  ![Registro INPI](https://img.shields.io/badge/INPI-BR%2051%202026%20006761--8-0052CC) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22017628-blue)](https://doi.org/10.5281/zenodo.22017628) ![Registro INPI](https://img.shields.io/badge/INPI-BR%2051%202026%20006761--8-0052CC) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 # Arquivivo
 Arquivivo is an educational game where you become the guardian of collective memory. Your mission is to preserve, and protect documents and archives against weather hazards, disasters, and state’s violence. Every decision shapes the reconstruction of community history and the defense of their voices.

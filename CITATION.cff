@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or game, please cite it as below."
+type: software
+title: "Arquivivo"
+abstract: >-
+  Arquivivo is an educational game where players become guardians of collective memory. 
+  The mission is to preserve and protect documents and archives against weather hazards, 
+  disasters, and state violence. Every decision shapes the reconstruction of community 
+  history and the defense of their voices.
+authors:
+  - family-names: "Franco"
+    given-names: "Millena Miranda"
+    affiliation: "Universidade de São Paulo (USP)"
+identifiers:
+  - type: other
+    value: "BR 51 2026 006933-5"
+    description: "INPI Software Registration"
+url: "https://arquivivo.github.io/"
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: "2026-08-01"
+keywords:
+  - educational game
+  - collective memory
+  - archives
+  - state violence
+  - digital humanities
+  - serious games
